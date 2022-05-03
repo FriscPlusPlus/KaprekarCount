@@ -23,7 +23,7 @@ Do you really have to? If yes then quick example:
 const KaprekarCount = require('../index');
 const Kaprekar = new KaprekarCount();
 const cycle = Kaprekar.cycle(2342);
-const cycle = Kaprekar.cycleCount(2342);
+const count = Kaprekar.cycleCount(2342);
 console.log(cycle); // will log the array with the numbers of the cycle
 console.log(count); // literally the length of the array lol
 
