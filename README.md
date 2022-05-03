@@ -16,7 +16,7 @@ So i also uploaded my live set from today on [SoundCloud](https://soundcloud.com
 
 # How to use this class? 
 
-Do you really need to? If yes then quick example:
+Do you really have to? If yes then quick example:
 
 ```js
 
