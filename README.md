@@ -4,7 +4,7 @@
 
 # What is this?
 
-I have no idea, i am very confused and can not think properly as of next week i have the first 4 exams that will determine my future and i still did not study, no its 5:42 AM and i still did not sleep because of my anxiety so i ended up doing nothing the whole day except Djing and programming.
+I have no idea, i am very confused and can not think properly as of next week i have the first 4 exams that will determine my future and i still did not study, now its 5:42 AM and i still did not sleep because of my anxiety so i ended up doing nothing the whole day except Djing and programming.
 
 # Why Kaprekar?
 
