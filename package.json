@@ -1,0 +1,12 @@
+{
+  "name": "kaprekar",
+  "version": "1.0.0",
+  "description": "get cycles and cycle count until a Kaprekar constant is reached for numbers with 3 and 4 digits",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test/test.js"
+  },
+  "keywords": [],
+  "author": "Firas Jelassi <firasroudi@gmail.com> (https://jelassi.me/)",
+  "license": "GPL"
+}
